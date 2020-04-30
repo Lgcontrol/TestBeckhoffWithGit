@@ -24,6 +24,9 @@
     <Compile Include="POUs\FC2.TcPOU">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="POUs\FC3.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="POUs\MAIN.TcPOU">
       <SubType>Code</SubType>
     </Compile>
